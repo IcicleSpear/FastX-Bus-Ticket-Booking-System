@@ -1,0 +1,49 @@
+/* Reset default spacing */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+/* Root level styles for full background */
+html, body, #root {
+  height: 100%;
+  font-family: 'Segoe UI', 'Outfit', sans-serif;
+  background: linear-gradient(to bottom right, #1e0033, #3A004F); 
+  color: #ffffff;
+}
+
+.white-checkbox-group .ant-checkbox-wrapper {
+  color: white !important;
+}
+
+.white-checkbox-group .ant-checkbox-inner {
+  background-color: transparent;
+  border-color: #bb6ae0;
+}
+
+.white-checkbox-group .ant-checkbox-checked .ant-checkbox-inner {
+  background-color: #bb6ae0;
+  border-color: #bb6ae0;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f4eaff; 
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #a64bf4; 
+  border-radius: 8px;
+  border: 2px solid #f4eaff;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #8e2de2;
+}
+
