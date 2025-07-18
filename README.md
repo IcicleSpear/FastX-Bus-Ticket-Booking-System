@@ -1,7 +1,7 @@
 # 🚌 FastX - Online Bus Ticket Booking System
 ## -- Abhishek A G
 
-Welcome to **FastX**, a full-stack 🚀 web-based bus ticket booking application designed as part of a case study. This system allows users to search for bus routes, view schedules, book tickets, make secure payments, and manage bookings. The application includes features for users, bus operators, and administrators.
+Welcome to **FastX**, a full-stack 🚀 web-based bus ticket booking application designed as part of **case study**. This system allows users to search for bus routes, view schedules, book tickets, make secure payments, and manage bookings. The application includes features for users, bus operators, and administrators.
 
 ---
 
@@ -35,7 +35,6 @@ Welcome to **FastX**, a full-stack 🚀 web-based bus ticket booking application
 | Backend         | Java + Spring Boot ☕           |
 | Database        | MySQL 🐬                        |
 | Authentication  | JSON Web Tokens (JWT) 🔐        |
-| Documentation   | Swagger UI 📄                   |
 | Testing         | JUnit + Mockito 🧪              |
 
 ---
